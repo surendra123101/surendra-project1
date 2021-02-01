@@ -1,2 +1,3 @@
 # surendra-project1
-workshop of github
+##basic linux commands
+cd(change ditrectory)
