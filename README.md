@@ -1,5 +1,5 @@
 # surendra-project1
-##basic linux commands
+## Basic linux commands
 -cd(change ditrectory)
 -pwd(present working directory)
 -ls(list of elements)
