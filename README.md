@@ -21,3 +21,10 @@
 - git add remote remote name
 ## remote status
 - git remote -v
+## cloning exisyting repository
+- git clone "repo link" foldername
+## undoing changes
+- git restore file name(uncommited changes)
+- git revert id(commited id)
+- git reset id (reseting committes)
+
