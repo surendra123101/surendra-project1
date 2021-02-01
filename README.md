@@ -9,3 +9,4 @@
 -python file name(executes a .py file)
 -mv old new(changes the filename)
 -rmdir(removing directory)
+-mkdir(making a directory)
