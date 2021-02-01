@@ -10,3 +10,7 @@
 - mv old new(changes the filename)
 - rmdir(removing directory)
 - mkdir(making a directory)
+## 3 steps to git files
+- converted the files in to tracking area 
+- create a snapshot by adding into staging area
+- commite the changes with messages
